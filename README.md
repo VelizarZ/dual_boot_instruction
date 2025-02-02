@@ -65,7 +65,7 @@ Once the installation is complete, consider the following:
 ## Additional Resources
 
 - [Ubuntu Dual Boot Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
-- [How to Disable BitLocker in Windows 10](https://support.microsoft.com/en-us/windows/turn-off-bitlocker-decryption-9b3b1151-57b3-c202-d5a0-719a8e9c55fb)
+- [How to Disable BitLocker in Windows 10](https://answers.microsoft.com/en-us/windows/forum/all/how-to-disable-bitlocker-on-win11-or-how-to-make/14a4f110-d06c-4592-8d42-e2cebb6a6da3)
 - [Rufus - Bootable USB Creation](https://rufus.ie/)
 
 ---
