@@ -70,3 +70,6 @@ Once the installation is complete, consider the following:
 
 ---
 By following this guide, you can successfully dual boot a Linux distribution alongside Windows, ensuring you have access to both operating systems on your PC.
+
+## Nvidia drivers for Unix/Linux
+- Remove secure boot from your BIOS otherwise the Nvidia driver can't be seen in your distro
